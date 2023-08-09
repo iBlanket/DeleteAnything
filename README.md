@@ -1,6 +1,6 @@
 
 # DeleteAnything
-Utilizing a Vulnerable Driver to allow for privileged deletion of any file!
+Utilizing a Vulnerable Driver to allow for unprivileged deletion of any file!
 
 ## Please Note
 I didnt intend on releasing this, i had plans to add more stuff to this project however, lately im not in the mood. The code I wrote for this is very rough and is meant to serve as an example.
