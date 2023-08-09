@@ -8,7 +8,7 @@ I didnt intend on releasing this, i had plans to add more stuff to this project 
 ## Usage
 - Simply install and start the 'IUForceDelete.sys'
 ```
-sc create fd type=kernel binpath="FILE_PATH_HERE"
+sc create fd type=kernel binpath="IUForceDelete_PATH_HERE"
 sc start fd
 ```
 - Run DeleteAnything!
