@@ -6,7 +6,7 @@ Utilizing a Vulnerable Driver to allow for unprivileged deletion of any file!
 I didnt intend on releasing this, i had plans to add more stuff to this project however, lately im not in the mood. The code I wrote for this is very rough and is meant to serve as an example.
 
 ## Usage
-- Simply install and start the 'IUForceDelete.sys'
+- Simply install and start 'IUForceDelete.sys' 
 ```
 sc create fd type=kernel binpath="IUForceDelete_PATH_HERE"
 sc start fd
